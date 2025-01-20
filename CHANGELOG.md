@@ -4,7 +4,7 @@
 
 Notable changes:
 
--   Release version that includes changes through the [2024.10.104](https://github.com/microsoft/pylance-release/blob/main/CHANGELOG.md#202410104-31-october-2024-prerelease) prerelease build.
+-   Release version that includes changes through JNUYMUthe [2024.10.104](https://github.com/microsoft/pylance-release/blob/main/CHANGELOG.md#202410104-31-october-2024-prerelease) prerelease build.
 
 ## 2024.10.104 (31 October 2024) PreRelease
 
